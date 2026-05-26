@@ -1,58 +1,61 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Muhammed%20Waled&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
-</div>
+# Hi there, I'm Muhammed Waled 👋 
 
-<div align="center">
-  <h3>🚀 Full-Stack Developer | Computer Programming Senior @ Biruni University</h3>
-  <p><i>Building enterprise-grade applications with .NET Core & React. Focused on Clean Code and System Architecture.</i></p>
-  
-  <img src="https://img.shields.io/badge/Biruni%20University-Computer%20Programming-blue?style=flat-square&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20To%20Work-YES-green?style=flat-square" />
-</div>
+### 🚀 Full-Stack Developer | Final Year Student @ Biruni University
+
+I am a results-driven **Full-Stack Developer** finishing my degree at **Biruni University**. I specialize in building high-performance, scalable applications using the **.NET Ecosystem** and **React**. My focus is on writing clean, maintainable code and implementing modern architectural patterns like **N-Tier Architecture**.
 
 ---
 
-### 🛠️ Technical Toolbelt
+### 🛠 Technical Skills
 
-<div align="center">
-
-| **Backend** | **Frontend** | **Databases & DevOps** |
-| :--- | :--- | :--- |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
-| ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-
-</div>
-
----
-
-### 📂 Featured Masterpieces (Enterprise & Logic)
-
-<div align="center">
-
-| [💼 JobTracker - Full Stack](https://github.com/MuhammedWaled-dev/JobTracker-FullStack-Enterprise-System) | [🚗 DVLD System](https://github.com/MuhammedWaled-dev/DVLD-Driving-License-Management-System) |
+| Category | Technologies |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedWaled-dev&repo=JobTracker-FullStack-Enterprise-System&theme=radical" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedWaled-dev&repo=DVLD-Driving-License-Management-System&theme=radical" width="400px" /> |
-| [🎓 Student Management](https://github.com/MuhammedWaled-dev/Student-Management-FullStack-System) | [📱 Smart QR Menu](https://github.com/MuhammedWaled-dev/Smart-QR-Menu-WhatsApp-Ordering) |
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedWaled-dev&repo=Student-Management-FullStack-System&theme=radical" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedWaled-dev&repo=Smart-QR-Menu-WhatsApp-Ordering&theme=radical" width="400px" /> |
-
-</div>
-
----
-
-### 📊 Skill Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedWaled-dev&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedWaled-dev&layout=compact&theme=radical" width="45%" alt="Top Languages" />
-</div>
+| **Backend** | C#, .NET Core Web API, EF Core, C++ |
+| **Frontend** | React.js, Vite, TypeScript, Material UI (MUI), JavaScript (ES6+) |
+| **Database** | SQL Server, Database Design, Complex Queries |
+| **DevOps & Architecture** | Docker, Docker-Compose, N-Tier Architecture, JWT Auth, Git |
+| **Languages** | Turkish (Native), Arabic (Native), English (Technical - A1) |
 
 ---
 
-### 📫 Connect with me
+### 📂 Featured Projects
 
-<div align="center">
-  <a href="mailto:muhammedwaled.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Istanbul,%20Turkey-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
-</div>
+#### 1. [JobTracker - Enterprise Full-Stack System](https://github.com/MuhammedWaled-dev/JobTracker-FullStack-Enterprise-System)
+- **Tech:** ASP.NET Core API, React, Docker, JWT Security.
+- **Key Feature:** N-Tier architecture with a data-driven dashboard for career management.
+
+#### 2. [DVLD - Driving License Management System](https://github.com/MuhammedWaled-dev/DVLD-Driving-License-Management-System)
+- **Tech:** .NET Core, SQL Server.
+- **Key Feature:** Complex business logic for licensing processes and test management.
+
+#### 3. [Student Management Full-Stack System](https://github.com/MuhammedWaled-dev/Student-Management-FullStack-System)
+- **Tech:** .NET API & React integration.
+- **Key Feature:** Complete CRUD operations with a modern UI.
+
+#### 4. [Smart QR Menu & WhatsApp Ordering](https://github.com/MuhammedWaled-dev/Smart-QR-Menu-WhatsApp-Ordering)
+- **Tech:** JavaScript, HTML5, CSS3.
+- **Key Feature:** Dynamic QR menu with WhatsApp order integration.
+
+#### 5. [Bank Management System](https://github.com/MuhammedWaled-dev/Bank-Management-System-CPP)
+- **Key Feature:** Secure transaction handling and file-based data persistence in C++.
+
+#### 6. [Logic & Game Development (C++)](https://github.com/MuhammedWaled-dev/Math-Game-CPP)
+- [Math Game](https://github.com/MuhammedWaled-dev/Math-Game-CPP) | [Stone-Paper-Scissors](https://github.com/MuhammedWaled-dev/Stone-Paper-Scissors-CPP)
+
+---
+
+### 🎓 Education
+- **Associate Degree in Computer Programming**
+- **Biruni University**, Istanbul, Turkey
+- *Expected Graduation: June 2026*
+
+---
+
+### 📫 Let's Connect
+- 📧 **Email:** [muhammedwaled.dev@gmail.com](mailto:muhammedwaled.dev@gmail.com)
+- 📍 **Location:** Istanbul, Turkey
+
+---
+
+### 📊 GitHub Activity
+*(Note: Stats will be visible once account activity increases)*
