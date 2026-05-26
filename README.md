@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Muhammed%20Waled&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Muhammed%20Waled&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -28,48 +28,22 @@
 
 ### 📂 Featured Masterpieces (Enterprise & Logic)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>💼 JobTracker - Full Stack</h4>
-      <a href="https://github.com/MuhammedWaled-dev/JobTracker-FullStack-Enterprise-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedWaled-dev&repo=JobTracker-FullStack-Enterprise-System&theme=radical" width="100%" />
-      </a>
-      <p>Enterprise job tracking with JWT, Docker, and N-Tier architecture.</p>
-    </td>
-    <td width="50%">
-      <h4>🚗 DVLD System</h4>
-      <a href="https://github.com/MuhammedWaled-dev/DVLD-Driving-License-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedWaled-dev&repo=DVLD-Driving-License-Management-System&theme=radical" width="100%" />
-      </a>
-      <p>Comprehensive Driver & Vehicle Licensing system with complex SQL logic.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🎓 Student Management</h4>
-      <a href="https://github.com/MuhammedWaled-dev/Student-Management-FullStack-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedWaled-dev&repo=Student-Management-FullStack-System&theme=radical" width="100%" />
-      </a>
-      <p>Full-stack educational platform for managing academic records.</p>
-    </td>
-    <td width="50%">
-      <h4>📱 Smart QR Menu</h4>
-      <a href="https://github.com/MuhammedWaled-dev/Smart-QR-Menu-WhatsApp-Ordering">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedWaled-dev&repo=Smart-QR-Menu-WhatsApp-Ordering&theme=radical" width="100%" />
-      </a>
-      <p>Interactive restaurant menu with WhatsApp ordering integration.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| [💼 JobTracker - Full Stack](https://github.com/MuhammedWaled-dev/JobTracker-FullStack-Enterprise-System) | [🚗 DVLD System](https://github.com/MuhammedWaled-dev/DVLD-Driving-License-Management-System) |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedWaled-dev&repo=JobTracker-FullStack-Enterprise-System&theme=radical" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedWaled-dev&repo=DVLD-Driving-License-Management-System&theme=radical" width="400px" /> |
+| [🎓 Student Management](https://github.com/MuhammedWaled-dev/Student-Management-FullStack-System) | [📱 Smart QR Menu](https://github.com/MuhammedWaled-dev/Smart-QR-Menu-WhatsApp-Ordering) |
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedWaled-dev&repo=Student-Management-FullStack-System&theme=radical" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedWaled-dev&repo=Smart-QR-Menu-WhatsApp-Ordering&theme=radical" width="400px" /> |
+
+</div>
 
 ---
 
 ### 📊 Skill Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedWaled-dev&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedWaled-dev&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedWaled-dev&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedWaled-dev&layout=compact&theme=radical" width="45%" alt="Top Languages" />
 </div>
 
 ---
