@@ -25,19 +25,21 @@ I am a results-driven **Full-Stack Developer** finishing my degree at **Biruni U
 - **Key Feature:** N-Tier architecture with a data-driven dashboard for career management.
 
 #### 2. [DVLD - Driving License Management System](https://github.com/MuhammedWaled-dev/DVLD-Driving-License-Management-System)
-- **Tech:** .NET Core, SQL Server.
-- **Key Feature:** Complex business logic for licensing processes and test management.
+- **Tech:** C#, Windows Forms (WinForms), ADO.NET, SQL Server.
+- **Key Feature:** Heavy business logic implementation for licensing workflows, test appointments, and citizen records using direct data access with ADO.NET and complex stored procedures.
 
 #### 3. [Student Management Full-Stack System](https://github.com/MuhammedWaled-dev/Student-Management-FullStack-System)
-- **Tech:** .NET API & React integration.
-- **Key Feature:** Complete CRUD operations with a modern UI.
+- **Tech:** ASP.NET Core Web API, C# Console Application, RESTful Services.
+- **Key Feature:** Implementation of a centralized API for academic records, consumed by a C# Console client using HttpClient to perform secure CRUD operations.
+  
 
 #### 4. [Smart QR Menu & WhatsApp Ordering](https://github.com/MuhammedWaled-dev/Smart-QR-Menu-WhatsApp-Ordering)
 - **Tech:** JavaScript, HTML5, CSS3.
 - **Key Feature:** Dynamic QR menu with WhatsApp order integration.
 
 #### 5. [Bank Management System](https://github.com/MuhammedWaled-dev/Bank-Management-System-CPP)
-- **Key Feature:** Secure transaction handling and file-based data persistence in C++.
+- **Tech:** C++, Functional Programming, File Handling.
+- **Key Feature:** A logic-driven Console application focused on functional decomposition. Implements secure transaction handling and data persistence using structured file operations in C++.
 
 #### 6. [Logic & Game Development (C++)](https://github.com/MuhammedWaled-dev/Math-Game-CPP)
 - [Math Game](https://github.com/MuhammedWaled-dev/Math-Game-CPP) | [Stone-Paper-Scissors](https://github.com/MuhammedWaled-dev/Stone-Paper-Scissors-CPP)
