@@ -21,8 +21,8 @@ I am a results-driven **Full-Stack Developer** finishing my degree at **Biruni U
 ### 📂 Featured Projects
 
 #### 1. [JobTracker - Enterprise Full-Stack System](https://github.com/MuhammedWaled-dev/JobTracker-FullStack-Enterprise-System)
-- **Tech:** ASP.NET Core API, React, Docker, JWT Security.
-- **Key Feature:** N-Tier architecture with a data-driven dashboard for career management.
+- **Tech:** ASP.NET Core API, React, **EF Core**, **SQL Server**, Docker, JWT Security.
+- **Key Feature:** A high-performance career management platform built on N-Tier Architecture, featuring secure JWT authentication and a data-driven dashboard for real-time application tracking.
 
 #### 2. [DVLD - Driving License Management System](https://github.com/MuhammedWaled-dev/DVLD-Driving-License-Management-System)
 - **Tech:** C#, Windows Forms (WinForms), ADO.NET, SQL Server.
