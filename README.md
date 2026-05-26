@@ -10,10 +10,10 @@ I am a results-driven **Full-Stack Developer** finishing my degree at **Biruni U
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | C#, .NET Core Web API, EF Core, C++ |
+| **Backend** | C#, **ASP.NET Core Web API (RESTful)**, EF Core, C++ |
 | **Frontend** | React.js, Vite, TypeScript, Material UI (MUI), JavaScript (ES6+) |
 | **Database** | SQL Server, Database Design, Complex Queries |
-| **DevOps & Architecture** | Docker, Docker-Compose, N-Tier Architecture, JWT Auth, Git |
+| **DevOps & Architecture** | Docker, Docker-Compose, **N-Tier Architecture**, **REST API Design**, JWT Auth, Git |
 | **Languages** | Turkish (Native), Arabic (Native), English (Technical - A1) |
 
 ---
